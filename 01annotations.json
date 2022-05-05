@@ -1,0 +1,41 @@
+{
+  "classes": ["NAME", "PHONE", "EMAIL", "EXPERIENCE", "EDUCATION", "SKILLS"],
+  "annotations": [
+    [
+      "Christopher Morgan\r\n\"Address: 177 Great Portland Street, London W5W 6PQ\"\r\nPhone: +44 (0)20 7666 8555\r\nEmail: christoper.morgan@gmail.com\r\nOBJECTIVE              Provide analysis data support in a company as Data Analyst.\r\nWORK\r\nEXPERIENCE\r\n04/2014 - 04/018\r\n\"Data Analyst, GHT Company, Madrid Spain\"\r\nResponsibilities:\r\n    Establish operation strategy in a team for improving sales\r\n    Prepare data and information for making regular report data analysis\r\n    Perform data analysis for complex data and files\r\n03/2012 – 05/2014\r\n\"Data Analyst, Startup Corporation, Madrid Spain\"\r\nResponsibilities:\r\n    Composed Java program for interfacing with Oracle database\r\n    Performed data analysis especially financial data\r\n    Performed statistical data analysis using STATA\r\n    Showed data analysis in regular meetings for creating new program\r\nEDUCATION                                                                                           2004 - 2008\r\n\"Bachelor Degree of Computer Science, Technical University\"\r\nof Madrid\r\n2002 - 2004\r\n\"Certified as Data Analyst, Data Analyst Certification, Technical University of Madrid\"\r\nADDITIONAL\r\nSKILLS\r\n\"Microsoft Office package: Microsoft Word, Excel, Access\"\r\n\"Database operation: Microsoft Office Access, Oracle 8i Statistical operation: SPSS, STATA\"\r\n\"Programming: C++, SQL, HTML\"\r\nREFERENCES           References available on request\r\n",
+      {
+        "entities": [
+          [0, 18, "NAME"],
+          [81, 100, "PHONE"],
+          [109, 136, "EMAIL"],
+          [240, 299, "EXPERIENCE"],
+          [515, 583, "EXPERIENCE"],
+          [951, 1000, "EDUCATION"],
+          [1036, 1075, "EDUCATION"],
+          [1185, 1215, "SKILLS"],
+          [1238, 1261, "SKILLS"],
+          [1296, 1308, "SKILLS"],
+          [1324, 1339, "SKILLS"]
+        ]
+      }
+    ],
+    [
+      "Christopher Morgan\r\n\"Address: 177 Great Portland Street, London W5W 6PQ\"\r\nPhone: +44 (0)20 7666 8555\r\nEmail: christoper.morgan@gmail.com\r\nOBJECTIVE              Provide analysis data support in a company as Data Analyst.\r\nWORK\r\nEXPERIENCE\r\n04/2014 - 04/018\r\n\"Data Analyst, GHT Company, Madrid Spain\"\r\nResponsibilities:\r\n    Establish operation strategy in a team for improving sales\r\n    Prepare data and information for making regular report data analysis\r\n    Perform data analysis for complex data and files\r\n03/2012 – 05/2014\r\n\"Data Analyst, Startup Corporation, Madrid Spain\"\r\nResponsibilities:\r\n    Composed Java program for interfacing with Oracle database\r\n    Performed data analysis especially financial data\r\n    Performed statistical data analysis using STATA\r\n    Showed data analysis in regular meetings for creating new program\r\nEDUCATION                                                                                           2004 - 2008\r\n\"Bachelor Degree of Computer Science, Technical University\"\r\nof Madrid\r\n2002 - 2004\r\n\"Certified as Data Analyst, Data Analyst Certification, Technical University of Madrid\"\r\nADDITIONAL\r\nSKILLS\r\n\"Microsoft Office package: Microsoft Word, Excel, Access\"\r\n\"Database operation: Microsoft Office Access, Oracle 8i Statistical operation: SPSS, STATA\"\r\n\"Programming: C++, SQL, HTML\"\r\nREFERENCES           References available on request\r\n",
+      {
+        "entities": [
+          [0, 18, "NAME"],
+          [81, 100, "PHONE"],
+          [109, 136, "EMAIL"],
+          [240, 299, "EXPERIENCE"],
+          [515, 583, "EXPERIENCE"],
+          [951, 1000, "EDUCATION"],
+          [1036, 1075, "EDUCATION"],
+          [1185, 1215, "SKILLS"],
+          [1238, 1261, "SKILLS"],
+          [1296, 1308, "SKILLS"],
+          [1324, 1339, "SKILLS"]
+        ]
+      }
+    ]
+  ]
+}
